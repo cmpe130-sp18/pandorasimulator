@@ -43,4 +43,4 @@ int DynamicArray::getCapacity() { return capacity; }
 
 Song& DynamicArray::operator[](int index) { return songs[index]; }
 
-DynamicArray::~DynamicArray() { delete[] songs; }
+DynamicArray::~DynamicArray() { delete[] songs;}
