@@ -1,12 +1,4 @@
-/**/
-//============================================================================
-// Name        : CmpE126_lab4.cpp
-// Author      : Antonio Corona-Sanchez & Mengchhay Ear
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
-//Reference from https://github.com/B1anky/CS-240-Program-2--Max-Heap--Hash-Table-with-Linked-List-chaining-/blob/master/DynamicArray.h
-//============================================================================
+
 //============================================================================
 // Name        : CmpE126_lab4.cpp
 // Author      : Antonio Corona-Sanchez & Mengchhay Ear
